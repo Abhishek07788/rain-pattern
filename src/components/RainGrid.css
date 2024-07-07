@@ -1,0 +1,17 @@
+.grid-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 10px auto;
+}
+
+.grid-row {
+  display: flex;
+  gap: 2px;
+}
+
+.grid-item {
+  width: 30px;
+  height: 34px;
+  background-color: black;
+}
